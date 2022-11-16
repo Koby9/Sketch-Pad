@@ -1,2 +1,2 @@
 # Sketch-Pad
-My sketch pad project from the Odin Project.
+A sketch pad project made with vanilla JS, HTML, and CSS.
